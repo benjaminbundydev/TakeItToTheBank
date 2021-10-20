@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeItToTheBank", "TakeItToTheBank\TakeItToTheBank.csproj", "{B166D2A7-EC0B-405B-9C74-AC0380934AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeItToTheBank.Tests", "TakeItToTheBank.Tests\TakeItToTheBank.Tests.csproj", "{6428A2CC-2F5E-4A72-BD20-008859450080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B166D2A7-EC0B-405B-9C74-AC0380934AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B166D2A7-EC0B-405B-9C74-AC0380934AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B166D2A7-EC0B-405B-9C74-AC0380934AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B166D2A7-EC0B-405B-9C74-AC0380934AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6428A2CC-2F5E-4A72-BD20-008859450080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6428A2CC-2F5E-4A72-BD20-008859450080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6428A2CC-2F5E-4A72-BD20-008859450080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6428A2CC-2F5E-4A72-BD20-008859450080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9970968-76AB-4CBF-AB2C-971B8122CF18}
+	EndGlobalSection
+EndGlobal
